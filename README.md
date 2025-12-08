@@ -5,7 +5,7 @@ I’m currently interested and majoring in Software Engineering and Enthusiast w
 Still learning and trying to master this.
 
 <p align="left">
-<a href="https://github.com/JioaF">
+<a href="https://github.com/PuyuDeati">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PuyuDeati&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PuyuDeati&layout=compact&langs_count=8&theme=algolia"/>
 </a>
