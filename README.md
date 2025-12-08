@@ -2,7 +2,7 @@
 My name is **Putri Ayu D**, Aka *PuyuDeati*
 
 I’m currently interested and majoring in Software Engineering and Enthusiast with IT stuff.
-Still learning and trying to Master Fullstack.
+Still learning and trying to master this.
 
 <p align="left">
 <a href="https://github.com/JioaF">
